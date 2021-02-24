@@ -1,0 +1,17 @@
+console.log("Hi this is my console");
+var fname="Raghav";
+console.log(fname);
+var lname="Malhotra";
+console.log(lname);
+var fullname=fname.concat(lname);
+console.log (fullname);
+var num1=7;
+var num2=2010;
+console.log(num1+num2);
+console.log(num1-num2);
+console.log(num1*num2);
+console.log(num1/num2);
+var bignumber=0.101010101010101010101010101;
+console.log(bignumber.toFixed(3));
+console.log(typeof(fname));
+console.log(typeof(num1));
